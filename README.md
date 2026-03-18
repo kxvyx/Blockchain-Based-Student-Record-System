@@ -1,2 +1,3 @@
 # Blockchain-Based-Student-Record-System
-This system aims to secure student records (marks, grades, certificates) and prevent tampering using blockchain 
+Goal: This system aims to secure student records (marks, grades, certificates) and prevent tampering using blockchain 
+Roles: Admin (approves users), Staff (uploads marks), and Student (views/requests their data)
